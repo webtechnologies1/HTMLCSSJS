@@ -1,0 +1,31 @@
+h1
+{
+    background-color: black;
+    color:white;
+  }
+ body{
+  background-color:rgb(196, 242, 194);
+  height: 100vh;
+ }
+ #g
+ {
+  background-color: antiquewhite;
+ }
+ 
+ .vais{
+  background-color: rgb(209, 204, 35);
+ }
+
+ #myDiv
+ {
+  background-color: bisque;
+  color: rgb(19, 197, 203);
+  height: 100px;
+  width: 300px;;
+  font-size: 32px;
+} 
+ #para
+ {
+  color:rgb(236, 145, 26);
+ font-size: 20rem;
+ }
